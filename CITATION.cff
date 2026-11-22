@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Benchmark scripts: parallelization efficiency of CNN-LSTM training and data preparation for groundwater level forecasting on a multi-core CPU"
+authors:
+  - family-names: Rajabov
+    given-names: Farkhat
+    affiliation: "Tashkent University of Information Technologies"
+  - family-names: Abdupattoyeva
+    given-names: Zulayho
+    affiliation: "Tashkent University of Information Technologies"
+version: 1.0.0
+license: MIT
