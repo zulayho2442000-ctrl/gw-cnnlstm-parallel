@@ -1,0 +1,8 @@
+CPU yadrolari: 4
+variant        procs  time_mean_s  speedup  efficiency_%
+tsikl              1        15.24     1.00         100.0
+tsikl              2        12.92     1.18          58.9
+tsikl              4         7.15     2.13          53.3
+numpy_vektor       1         2.05     7.44             —
+
+Barcha variantlarda natija bir xilmi (md5): True
