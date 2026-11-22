@@ -1,8 +1,8 @@
 CPU yadrolari: 4
 variant        procs  time_mean_s  speedup  efficiency_%
-tsikl              1        15.24     1.00         100.0
-tsikl              2        12.92     1.18          58.9
-tsikl              4         7.15     2.13          53.3
-numpy_vektor       1         2.05     7.44             —
+tsikl              1         8.17     1.00         100.0
+tsikl              2         6.43     1.27          63.5
+tsikl              4         6.05     1.35          33.7
+numpy_vektor       1         1.46     5.59             —
 
 Barcha variantlarda natija bir xilmi (md5): True

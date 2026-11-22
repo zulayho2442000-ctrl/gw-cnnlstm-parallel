@@ -1,0 +1,15 @@
+{
+ "cpu": "Intel64 Family 6 Model 142 Stepping 9, GenuineIntel",
+ "logical_cores": 4,
+ "torch": "2.15.0+cpu",
+ "epochs": 2,
+ "repeats": 3,
+ "batch": 1024,
+ "sensors": 100,
+ "seq_len": 30
+}
+
+ threads  time_mean  time_std   rmse    mae     r2  speedup  efficiency_%  amdahl_f
+       1   144.9027    4.2722 0.6146 0.4882 0.9968   1.0000      100.0000       NaN
+       2   133.7706   37.7912 0.6146 0.4882 0.9968   1.0832       54.1609    0.1536
+       4   153.0280    1.7869 0.6146 0.4882 0.9968   0.9469       23.6726   -0.0748
